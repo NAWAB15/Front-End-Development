@@ -1,0 +1,52 @@
+body{
+  background-color:#DDE3F4 ;
+  height: 400%;  
+}
+fieldset{
+font-size: 23px;
+border-width: 12px;
+border-radius:9px; 
+width:800px;
+margin:100px 50px;
+border: ridge 5px;
+background-color: bisque;
+}
+button{
+width:50px;height:30px;font-size: 20px;
+  border:outset;
+  border-radius:10px;
+
+}
+#uname{
+  font-size:20px;
+  margin-top: 20px;
+}
+#cal,#cl{
+  width: 3cm;
+}
+
+.crumbs {
+  border-radius: 5px;
+ position: fixed; top:0px;
+  background-color:#5a5b5e;
+  width: 1500px;
+  height: 55px;
+  
+}
+li {
+line-height: 10px;
+ float:right;
+list-style:none;
+}
+a{ 
+padding:  20px;
+    color:white;  
+  text-decoration:none;
+}
+a:hover{ 
+background-color:rgb(82, 192, 112);
+  top:5px;
+}
+footer,p{
+  text-align:center;
+}
